@@ -1,0 +1,15 @@
+{
+  "name": "animacia",
+  "owner": {
+    "name": "alloalin"
+  },
+  "plugins": [
+    {
+      "name": "animacia",
+      "source": "./",
+      "description": "6 анімацій для рілсів з однієї команди.",
+      "version": "1.0.0"
+    }
+  ],
+  "description": "Анімації для рілсів від alloalin"
+}

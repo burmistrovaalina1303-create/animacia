@@ -1,0 +1,16 @@
+{
+  "name": "animacia",
+  "version": "1.0.0",
+  "description": "6 анімацій для рілсів з однієї команди: сповіщення, ізо-схема, до/після, ноутбук, лічильник днів, глобус. Remotion + Claude Code.",
+  "keywords": [
+    "remotion",
+    "animation",
+    "reels",
+    "shorts",
+    "motion-graphics"
+  ],
+  "author": {
+    "name": "alloalin",
+    "url": "https://alloalin.com"
+  }
+}
